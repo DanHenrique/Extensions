@@ -16,9 +16,10 @@
 
 		$.extend(self, {
 			nCageImgs : [
-			'https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjCnI7nlunXAhVFiZAKHZf8Cl4QjRwIBw&url=https%3A%2F%2Ftwitter.com%2Fazolinobruno&psig=AOvVaw0KUl59UtyDwcr9gXs2W7Pg&ust=1512230246322994',
-			'https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiSzsTolunXAhUMPJAKHZFZBMoQjRwIBw&url=https%3A%2F%2Fbr.linkedin.com%2Fin%2Fbruno-azolino-63b08854&psig=AOvVaw0KUl59UtyDwcr9gXs2W7Pg&ust=1512230246322994',
-			'https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiGoezwlunXAhXCj5AKHeseAL4QjRwIBw&url=https%3A%2F%2Ftwitter.com%2Fbruninhoneko%2Fmedia&psig=AOvVaw0KUl59UtyDwcr9gXs2W7Pg&ust=1512230246322994',
+			'https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAkqAAAAJDZhMDExZThjLTVlOWEtNGE0Yi04Mjc4LThkMmE3Y2JiODhjZg.jpg',
+			'https://pbs.twimg.com/profile_images/710444786088583168/weBts6zg.jpg',
+			'https://pbs.twimg.com/profile_images/562695894588743680/LQ0ZRleU_400x400.jpeg',
+			'https://kiwicdn.akamaized.net/MKQmeeSQ7ykzvkxqpp6XaR.jpg',
 			],
 			handleImages : function (lstImgs, time)
 			{
