@@ -1,0 +1,12 @@
+{
+	"manifest_version": 2,
+	"name": "nCage",
+	"version": "1.4",
+	"description": "Troque todas as imagens do site por fotos do Vampeta.",
+	"content_scripts": [
+	    {
+	      "matches": ["*://*/*"],
+	      "js": ["jquery-3.3.1.min.js", "ncage.js"]
+	    }
+  	]
+}
