@@ -7,6 +7,7 @@
 // @match        *://*/*
 // @grant        none
 // ==/UserScript==
+// Para adicionar no Mozilla -> about:debugging
 
 (function() {
 	//nCage
